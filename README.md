@@ -17,3 +17,6 @@ utilizando o pacote Plotly Express para visualizações interativas
   - Pandas
   - Streamlit
   - Plotly-express
+
+# URL do aplicativo no Render
+https://sprint5-vehicles-ec5s.onrender.com
